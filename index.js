@@ -13,4 +13,4 @@ Vue.createApp({
             this.goal = ''
         }
     },
-}).mount('#app')
+}).mount('#app');
